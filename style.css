@@ -1,0 +1,35 @@
+.hero-img {
+    background-image: url(https://images.unsplash.com/photo-1508863702330-2eece3ea08cb?q=80&w=1375&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.main-card {
+    background-color: rgba(79, 79, 79, 0.554);
+    min-height: 40vh;
+}
+
+.score-card {
+    background-color: rgba(255, 255, 255, 0.584);
+    min-height: 50px;
+}
+
+.font-big {
+    font-size: 600%;
+
+}
+
+.font-med {
+    font-size: 300%;
+}
+
+.btn-color {
+    background-color: rgba(255, 255, 255, 0.85);
+
+}
+
+
+.text-shadow-btn {
+    text-shadow: 1px 1px 20px rgb(0, 0, 0);
+}
